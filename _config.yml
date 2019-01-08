@@ -1,0 +1,32 @@
+title: Microsoft Technology Centres
+workshop: Azure Infrastructure Lab
+author: Microsoft
+
+baseurl: /
+show_full_navigation: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+collections:
+  docs:
+    title: Documentation
+    permalink: /:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "docs"
+    values:
+      _options:
+        content:
+          width: 800
+          height: 2000
