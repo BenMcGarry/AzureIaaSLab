@@ -12,11 +12,11 @@ order: 3
     cd "C:\Users\trainee\Downloads\ARM Template"
      ```
 
-1. Use File > Open to open the deploy.ps1 script from the same location.
+1. In Powershell ISE, go to File > Open to open the deploy.ps1 script from the same location.
 
 1. Type cls to clear the screen.
 
-1. **Run the powershell script**. If you get a "File Cannot be loaded because running scripts is disabled on this system" error when you try to run the script, run the following command to clear it and click Yes to All then re-run the deploy.ps1 script.
+1. **Run the powershell script with the green arrow at the top**. If you get a "File Cannot be loaded because running scripts is disabled on this system" error when you try to run the script, run the following command to clear it and click Yes to All then re-run the deploy.ps1 script.
 
     ```powershell
     Set-ExecutionPolicy Unrestricted
