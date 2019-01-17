@@ -17,4 +17,4 @@ This is what you will be building in this lab:
 
 Throughout the lab you will be using a mixture of the Azure Portal, Azure CLI and Powershell. You will also get hands on experience using template deployments.
 
-## [Next]({{ site.baseurl }}/03corpnet/corpnet)
+## [Next]({{ site.baseurl }}/02overview/naming)
