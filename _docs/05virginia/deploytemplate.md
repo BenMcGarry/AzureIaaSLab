@@ -26,7 +26,7 @@ order: 3
 
 1. Refer to the Subscription ID at the top of the naming convention table. Enter your Subscription ID when prompted (alternatively, in the portal go to **Cost Management + Billing then Subscriptions** to find your Subscription ID).
 
-1. When asked for a Resource Group, type "<resource group name\>" **Note: This is a new resource group – you are now deploying to Virginia. The name will be something like "rgVirg".**
+1. When asked for a Resource Group, type "**<resource group name\>**" **Note: This is a new resource group – you are now deploying to Virginia. The name will be something like "rgVirg".**
 
 1. The deployment name is only used for logging – you can type anything.
 
