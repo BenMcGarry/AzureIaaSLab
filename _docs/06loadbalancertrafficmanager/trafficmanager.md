@@ -29,7 +29,7 @@ We will now provision the Traffic Manager between West Europe and East US region
 1. For the Virginia endpoint use the following settings:
     - Name: **<endpoint name\>**
     - Target resource type: **Public IP address**
-    - Target resource: **<instance-level pip name>** (remember this is one of your individual VMs in Virginia with the webserver)
+    - Target resource: **<instance-level pip name\>** (remember this is one of your individual VMs in Virginia with the webserver)
     - Priority: **1**
 
 1. For the Amsterdam endpoint use the following settings:
