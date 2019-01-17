@@ -4,6 +4,9 @@ category: Setup
 order: 2
 ---
 
+### If you are at a Microsoft Technology Centre for this lab. You may skip these steps as they have already been done for you.
+
+
 We need to get Visual Studio Code installed. Go [here](https://code.visualstudio.com/Download) and click the Windows Download.
 
 ![VS Code Download]({{ site.baseurl }}/img/vscode.png)
