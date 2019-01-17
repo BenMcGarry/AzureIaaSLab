@@ -12,7 +12,7 @@ First we need the build the simulated corporate network which will include a dev
 
 1. In the search filter type **Visual Studio 2017** and hit return.
 
-1. Select **Visual Studio Community 2017 (latest release) on Windows 10 Enterprise N (x64)**, then in the rightmost blade **ensure Resource Manager is selected** and click Create.
+1. Select **Visual Studio Community 2017 (latest release) on Windows Server 2016 (x64)**, then in the rightmost blade **ensure Resource Manager is selected** and click Create.
 
 1. Ensure your subscription is selected. Under resource group, click **Create new** and set the name to **rgCorpNet**.
 
