@@ -4,6 +4,8 @@ category: Load Balancer & Traffic Manager
 order: 3
 ---
 
+**For this section we HIGHLY recommend you put the names you create in the Naming Conventions sheet.**
+
 You'll start with a PIP and add more resources to eventually connect the PIP through a load balancer to your VMs in Amsterdam. Here's a diagram of what you'll eventually achieve:
 
 ![Load Balancer Endpoint]({{ site.baseurl }}/img/lbendpoint.png)
