@@ -6,7 +6,7 @@ order: 2
 
 We will now setup the gateways on each site to allow the connection.
 
-**NOTE: This part of the lab can take around 30 minutes to complete.**
+**NOTE: This part of the lab can take around 30 minutes to complete. Most of which is waiting for the automatic deployment to finish.**
 
 A Gateway has to have a subnet for its own exclusive use.
 
