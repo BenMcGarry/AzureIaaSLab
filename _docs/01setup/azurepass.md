@@ -50,7 +50,7 @@ You can only assign one free trial/Azure Pass during the entire life of a Micros
 
 1. It takes a few minutes for the page to move on. It may take you to a page that has an **Activate** button, if so click it. If not it should take you to the next step.
 
-1. It will now ask you to fill in some further information, fill it out however for the phone number you may enter any number. Once you are happy click Next. It might take a minute or two to process.
+1. It will now ask you to fill in some further information, fill it out however for the phone number you may enter any number. Once you are happy click **Next**. It might take a minute or two to process.
 
     ![Image of Form]({{ site.baseurl }}/img/form.png)
 
