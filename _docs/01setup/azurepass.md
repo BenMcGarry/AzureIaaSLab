@@ -64,6 +64,8 @@ You can only assign one free trial/Azure Pass during the entire life of a Micros
 
 1. To check your subscription was successfully redeemed, click **Cost Management + Billing** near the bottom of the left-hand blade.
 
+1. Select your Azure account on the screen, it should show your email address.
+
 1. Under **Billing** go to **Subscriptions**
 
 1. If you can see a subscription called Azure Pass - Sponsorship and a Subscription ID. **Congratulations you are good to go!** Otherwise please talk to your instructor.
