@@ -8,9 +8,9 @@ You will now create a second Windows Virtual Machine. **Please follow these inst
 
 1. Click Create a resource at the top of the left blade.
 
-1. In the search filter type **Windows Server 2019** and hit return.
+1. In the search filter type **Windows Server** and hit return. Select **Windows Server**.
 
-1. Select **Windows Server 2019 Datacenter**, then in the rightmost blade **ensure Resource Manager is selected** and click Create.
+1. Select **Windows Server 2019 Datacenter** from the drop down menu and **ensure Resource Manager is selected** and click Create.
 
 1. Ensure your subscription is selected. Under resource group, **select the Amsterdam one** you created earlier.
 
