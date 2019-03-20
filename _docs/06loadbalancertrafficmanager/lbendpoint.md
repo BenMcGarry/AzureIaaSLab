@@ -10,7 +10,7 @@ You'll start with a PIP and add more resources to eventually connect the PIP thr
 
 ![Load Balancer Endpoint]({{ site.baseurl }}/img/lbendpoint.png)
 
-1. Login to the Azure CLI with the following command:
+1. Open Command Prompt and login to the Azure CLI with the following command:
 
     ```powershell
     az login
