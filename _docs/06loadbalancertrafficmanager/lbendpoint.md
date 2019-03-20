@@ -10,6 +10,12 @@ You'll start with a PIP and add more resources to eventually connect the PIP thr
 
 ![Load Balancer Endpoint]({{ site.baseurl }}/img/lbendpoint.png)
 
+1. Login to the Azure CLI with the following command:
+
+    ```powershell
+    az login
+    ``` 
+
 1. Firstly, create a PIP called <loadbalanced pip name\> in your resource group in the West Europe region. The diagram shows the PIP is not yet connected to your VMs. **NOTE**: In the diagrams that follow, as each new resource is added, IT APPEARS IN RED.
 
     ![Load Balancer PIP]({{ site.baseurl }}/img/lbpip.png)
