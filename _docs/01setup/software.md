@@ -45,15 +45,15 @@ Once installed, open a command prompt and type az. Scroll back to the top of the
 
 To log in type the following and follow the on-screen instructions.
 
-    ```powershell
-    az login
-    ``` 
+```powershell
+az login
+``` 
 
 You need to also set which subscription you will be working in. To do this run the following command but edit it to put in your Subscription ID: 
 
-    ```powershell
-    az account set --subscription <subscription id>
-    ```
+```powershell
+az account set --subscription <subscription id>
+```
 
 We are now all setup for the lab!
 
