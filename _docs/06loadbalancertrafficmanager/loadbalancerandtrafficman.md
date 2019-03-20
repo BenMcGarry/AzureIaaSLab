@@ -10,4 +10,4 @@ The diagram below shows what you have already provisioned in blue. The red resou
 
 These tasks can be performed in the Azure Portal, but you'll perform them now using the Azure CLI just to give you experience of using a different method of configuration.
 
-## [Next]({{ site.baseurl }}/06loadbalancertrafficmanager/azurecli)
+## [Next]({{ site.baseurl }}/06loadbalancertrafficmanager/lbendpoint)
