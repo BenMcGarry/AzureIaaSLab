@@ -1,7 +1,7 @@
 ---
 title: Provision Traffic Manager
 category: Load Balancer & Traffic Manager
-order: 4
+order: 3
 ---
 
 We will now provision the Traffic Manager between West Europe and East US regions.

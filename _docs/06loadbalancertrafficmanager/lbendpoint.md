@@ -1,7 +1,7 @@
 ---
 title: Create a load balanced endpoint
 category: Load Balancer & Traffic Manager
-order: 3
+order: 2
 ---
 
 **For this section we HIGHLY recommend you put the names you create in the Naming Conventions sheet.**
