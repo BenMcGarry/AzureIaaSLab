@@ -14,7 +14,7 @@ A Gateway has to have a subnet for its own exclusive use.
 
 1. Leave everything at its default values and click OK. 
 
-    **Note:** If you cannot create a new Gateway Subnet, it is almost certainly because the address space created with your VNet has been entirely taken up by your VM subnet. You will need to return to your VNet configuration, click on Address space, and add an additional /24. If your existing address space is 10.1.0.0/24, for example, add 10.2.0.0/24 for the gateway subnet. You will need to do the same on both sides, CorpNet and Amsterdam.
+    **Note:** If you cannot create a new Gateway Subnet or it does not pre-fill an IP Address, it is almost certainly because the address space created with your VNet has been entirely taken up by your VM subnet. You will need to return to your VNet configuration, click on Address space, and edit your address space to be a /16 block and not /24. You will need to do the same on both sides, CorpNet and Amsterdam.
 
 1. When complete go to **All Services** then under Networking select **Virtual network gateways**.
 
