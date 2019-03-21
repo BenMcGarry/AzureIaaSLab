@@ -6,7 +6,7 @@ order: 2
 
 1. In the left-hand blade – click **Resource groups** and click the **Resource group for Amsterdam**.
 
-1. On the Settings blade, click **Automation script**.
+1. On the Settings blade, click **Export Template**.
 
 There's a possibility you'll get an error saying the extension is not saved or that certain resource types cannot be exported. You can safely ignore these errors. The export functionality sometimes lags behind the functionality of the resources themselves. It will eventually catch-up.
 
