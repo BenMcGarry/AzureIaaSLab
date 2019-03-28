@@ -10,7 +10,7 @@ Please follow the below instructions **exactly as they are**. It is possible to 
 
 1. Open Microsoft Edge and launch a New InPrivate Window, this can be done by clicking the three dots at the top right of the browser window.
 
-1. Go to [outlook.com](https://outlook.com) and create a new account.
+1. Go to [outlook.com](https://outlook.com){:target="_blank"} and create a new account.
 
     ![Image of Outlook]({{ site.baseurl }}/img/outlook.png)
 
@@ -24,7 +24,7 @@ Please follow the below instructions **exactly as they are**. It is possible to 
 
 1. Close all browser windows and open another InPrivate Window in Microsoft Edge.
 
-1. Go to [microsoftazurepass.com](https://www.microsoftazurepass.com)
+1. Go to [microsoftazurepass.com](https://www.microsoftazurepass.com){:target="_blank"}
 
 1. Click the Start button
 
