@@ -8,7 +8,7 @@ We will now setup your Azure Pass Subscription, this will require a **brand new 
 
 Please follow the below instructions **exactly as they are**. It is possible to invalidate the pass on a Microsoft Account resulting in having to create a brand new account and use a new subscription redemption code.
 
-1. Open Microsoft Edge and launch a New InPrivate Window, this can be done by click the three dots at the top right of the browser window.
+1. Open Microsoft Edge and launch a New InPrivate Window, this can be done by clicking the three dots at the top right of the browser window.
 
 1. Go to [outlook.com](https://outlook.com) and create a new account.
 
@@ -20,7 +20,7 @@ Please follow the below instructions **exactly as they are**. It is possible to 
 
     ![Image of Account]({{ site.baseurl }}/img/account.png)
 
-    ![Image of Signout]({{ site.baseurl }}/img/signout.png)
+    ![Image of Sign-out]({{ site.baseurl }}/img/signout.png)
 
 1. Close all browser windows and open another InPrivate Window in Microsoft Edge.
 
@@ -32,7 +32,7 @@ Please follow the below instructions **exactly as they are**. It is possible to 
 
 1. Sign in with the account you just created.
 
-1. Click the **Confirm Microsoft Account** button if the details shown match the account you created, if not talk to one of the instructors.
+1. Click the **Confirm Microsoft Account** button if the details shown match the account you created, if not restart from step 5.
 
     ![Image of Confirm]({{ site.baseurl }}/img/confirm.png)
 
@@ -40,7 +40,7 @@ Please follow the below instructions **exactly as they are**. It is possible to 
 
     ![Image of Claim]({{ site.baseurl }}/img/claim.png)
 
-1. It will now ask you to fill in some further information. Use the email address you have just created and you can put in any phone number (See the below picture for example). Once you are happy click **Next**. It might take a minute or two to process.
+1. It will now ask you to fill in some further information. Use the email address you have just created and put in any phone number (See the below picture for an example). Once you are happy click **Next**. It might take a minute or two to process.
 
     ![Image of Form]({{ site.baseurl }}/img/form.png)
 
@@ -48,17 +48,16 @@ Please follow the below instructions **exactly as they are**. It is possible to 
 
     ![Image of Signup]({{ site.baseurl }}/img/agreement.png)
 
-1. It will now take a few minutes to redeem the subscription. You may see a message saying "Set up is taking longer than usual...", this is normal just continue to wait.
+1. It will now take a few minutes to redeem the subscription. You may see a message saying, "Set up is taking longer than usual...", this is normal just continue to wait.
 
 1. Once it has successfully redeemed you will automatically be redirected to the Azure Portal. **If you get any errors please talk to one of the instructors**.
 
 1. To check if your subscription was successfully activated, click **Cost Management + Billing** near the bottom of the left-hand blade.
 
-1. On the left-hand blade, Under **Billing** go to **Subscriptions**
+1. On the left-hand blade within Cost Management + Billing, Under **Billing** go to **Subscriptions**.
 
-1. If you can see a subscription called Azure Pass - Sponsorship and the Status is "Active". **Congratulations you are good to go!** Otherwise please talk to your instructor.
+1. If you can see a subscription called **Azure Pass - Sponsorship** and the Status is **Active**. **Congratulations you are good to go!** Otherwise please talk to your instructor.
 
 ![Image of Completed Redemption]({{ site.baseurl }}/img/completed.png)
-
 
 ## [Next]({{ site.baseurl }}/01setup/software)
