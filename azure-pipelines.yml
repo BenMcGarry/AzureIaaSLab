@@ -1,4 +1,14 @@
 # Jekyll site
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Internal Consumption(a3c9864f-b1af-4cc5-8dec-8753956e8ff2)'
+    appType: 'webAppLinux'
+    WebAppName: 'benappserdemo'
+    deployToSlotOrASE: true
+    ResourceGroupName: 'BenAKSDemo'
+    SlotName: 'test'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
 # Package your Jekyll site using the jekyll/builder Docker container image.
 # Add steps that build, test, save build artifacts, deploy, and more:
 # https://aka.ms/yaml
